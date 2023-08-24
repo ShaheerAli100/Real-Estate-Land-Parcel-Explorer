@@ -3,3 +3,5 @@
 
 # For React.js (JSX) files
 *.jsx linguist-detectable=true
+
+*.html linguist-detectable=false
