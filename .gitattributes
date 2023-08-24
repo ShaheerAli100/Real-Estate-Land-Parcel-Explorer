@@ -1,0 +1,5 @@
+# For Node.js files
+*.js linguist-detectable=true
+
+# For React.js (JSX) files
+*.jsx linguist-detectable=true
